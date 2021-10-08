@@ -1,0 +1,43 @@
+body{
+    background: #D0D0E5;
+}
+h1{
+    font: condensed oblique 18pt "Luminari", fantasy;
+}
+h2{
+   margin: 10px;
+   text-align:justify;
+   font-family:Impact, sans-serif;
+
+}
+h3{
+   margin: 10px;
+   text-align:center;
+   font: condensed oblique 18pt "Luminari", fantasy;
+}
+p{
+   margin: 15px;
+   text-align:justify;
+   font-family: "Courier New", Courier monospace;
+   font-size:20px
+}
+
+.sign {
+    float: right;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f0f0f0;
+   }
+.sign figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+   }
+img{
+    height:250px;
+    width:500px;
+}
+
+
+
+

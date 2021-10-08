@@ -1,0 +1,54 @@
+body{
+    background: #b2ebf2;
+}
+h1{
+    font: condensed oblique 18pt "Luminari", fantasy;
+}
+h2{
+   margin: 10px;
+   text-align:justify;
+}
+h3{
+   margin: 10px;
+   font-family: 30pt 'Merriweather', serif;
+   font-size: 20px;
+   letter-spacing: 1px;
+   width: 100%;
+   position: relative;
+   display: inline-block;
+}
+
+p{
+   margin: 15px;
+   text-align:justify;
+}
+img{
+    height:250px;
+    width:500px;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #D1D0E5;
+}
+ol{
+  width: auto;
+  margin: 0 auto;
+  letter-spacing: 2px;
+  border: 2px solid #cbdcea;
+  color: black;
+}
+#title_image{
+    height:200px;
+    width:250px;
+}
+.down_block{
+    background-color: #031358;
+    clear: both;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 14px;
+    padding: 15px 0;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+

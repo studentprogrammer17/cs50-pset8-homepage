@@ -1,0 +1,44 @@
+body{
+    background: #B1BBED;
+}
+
+
+.sign {
+    float: left;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #D1D0E5;
+}
+.sign figcaption{
+    margin: 0 auto 5px;
+    font-style: oblique;
+}
+img{
+    height: 151px;
+    width:300px;
+}
+.map{
+    text-align: center;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #D1D0E5;
+}
+.map figcaption{
+    margin: 0 auto 5px;
+    font-style: oblique;
+}
+p{
+   margin: 15px;
+   text-align:justify;
+}
+.form{
+        -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.35); /* добавим тень*/
+        border-radius: 0px 0px 30px 30px; /* закруглим края панели */
+        background-color: #b2ebf2;
+        height: 230px;
+        width: 1800px;
+        margin: 15px;
+        }
+
